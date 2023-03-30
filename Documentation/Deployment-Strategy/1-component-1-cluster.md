@@ -1,11 +1,8 @@
 # Deployment of Single Component on Single Cluster using ArgoCD
 
-In this document, we will explain how to deploy a single Kubernetes application on a single cluster using ArgoCD. We will assume that you have already set up ArgoCD and connected it to your Kubernetes cluster.
-
 
 ## Architecture Diagram:
-
-
+![Alt text](https://github.com/Anup-Narkhede-Posh/Argo-CD/blob/main/Documentation/Deployment-Strategy/Images/application.jpeg)
 ## Repository Structure
 
 ```
